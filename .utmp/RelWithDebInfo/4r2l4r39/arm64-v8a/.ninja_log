@@ -1,0 +1,10 @@
+# ninja log v5
+12	656	7665989043864723	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	b5a65e887344aa00
+21	671	7665989044030503	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4a75a4671e51d1d8
+5	671	7665989044040706	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	87835051a88bd5fa
+31	697	7665989044290941	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	d82f162ceb291311
+25	745	7665989044729246	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	47887a441874193c
+8	759	7665989044895166	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	dd2988be8c6d8e94
+16	878	7665989046198212	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	80524a555ffe2b4d
+1	933	7665989046724628	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	54c44e8a5e24296b
+933	995	7665989047400817	E:/Company Projects/Hangout Concert/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4r2l4r39/obj/arm64-v8a/libgame.so	43d5a5a9ea37acd

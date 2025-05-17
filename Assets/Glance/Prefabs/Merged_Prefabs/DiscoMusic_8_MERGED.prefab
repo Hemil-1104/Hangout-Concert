@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6566797866875089664
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: a4318bb045684fb4aaf0f5b13c648b94, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a4318bb045684fb4aaf0f5b13c648b94, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a4318bb045684fb4aaf0f5b13c648b94, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a4318bb045684fb4aaf0f5b13c648b94, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.0000000754979
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a4318bb045684fb4aaf0f5b13c648b94, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 2.9111987e-15
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a4318bb045684fb4aaf0f5b13c648b94, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a4318bb045684fb4aaf0f5b13c648b94, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000037748947
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a4318bb045684fb4aaf0f5b13c648b94, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a4318bb045684fb4aaf0f5b13c648b94, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a4318bb045684fb4aaf0f5b13c648b94, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -6773143309803302540, guid: a4318bb045684fb4aaf0f5b13c648b94, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 3c32eca25bc25854d9e94ad2d747d704, type: 2}
+    - target: {fileID: -4928183168079030948, guid: a4318bb045684fb4aaf0f5b13c648b94, type: 3}
+      propertyPath: m_Intensity
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: -3298573991397795207, guid: a4318bb045684fb4aaf0f5b13c648b94, type: 3}
+      propertyPath: m_Intensity
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: -2221305737531755742, guid: a4318bb045684fb4aaf0f5b13c648b94, type: 3}
+      propertyPath: m_Intensity
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: -78895267537656917, guid: a4318bb045684fb4aaf0f5b13c648b94, type: 3}
+      propertyPath: m_Intensity
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a4318bb045684fb4aaf0f5b13c648b94, type: 3}
+      propertyPath: m_Name
+      value: DiscoMusic_8_MERGED
+      objectReference: {fileID: 0}
+    - target: {fileID: 8966403480017708407, guid: a4318bb045684fb4aaf0f5b13c648b94, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 478ee7145a612564a9a1ed573a674fdb, type: 2}
+    - target: {fileID: 8966403480017708407, guid: a4318bb045684fb4aaf0f5b13c648b94, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 1c96889e5103cdf448c2f6d4e06dc56d, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a4318bb045684fb4aaf0f5b13c648b94, type: 3}

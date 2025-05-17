@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc1bc83ef398d0b46b9145e3693f2ceb, type: 3}
+  m_Name: Dance_Move 15
+  m_EditorClassIdentifier: 
+  DanceMoveIndex: 14
+  DanceMoveSprite: {fileID: 21300000, guid: eb11025147bb95941a3f9eefb4fc0bea, type: 3}
+  DanceMoveXpReward: 175
+  DanceMoveType: 2
+  DanceMoveMasteryWeight: 4
+  DanceMoveCost: 1500
