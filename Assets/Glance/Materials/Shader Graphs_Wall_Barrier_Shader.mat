@@ -60,7 +60,7 @@ Material:
     - _Blend: 2
     - _BlendModePreserveSpecular: 0
     - _CastShadows: 1
-    - _Cull: 2
+    - _Cull: 1
     - _Dots_Noise_Scale: 200
     - _Dots_Size: 1
     - _DstBlend: 1
@@ -82,7 +82,7 @@ Material:
     - _Dots_Color: {r: 0, g: 1.0425847, b: 1.4980391, a: 0}
     - _Dots_Speed: {r: 0, g: 0.2, b: 0, a: 0}
     - _Dots_Tiling: {r: 50, g: 50, b: 0, a: 0}
-    - _Hex_Color: {r: 0, g: 1, b: 0.9898431, a: 0}
+    - _Hex_Color: {r: 0, g: 8, b: 7.9187446, a: 0}
     - _Hex_Tiling: {r: 50, g: 50, b: 0, a: 0}
     - _Scrolling_Noise_Speed: {r: 0, g: 0.2, b: 0, a: 0}
   m_BuildTextureStacks: []
